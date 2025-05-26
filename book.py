@@ -122,7 +122,7 @@ elif menu == "Display Statistics":
 
 # Footer
 st.sidebar.markdown("---")
-st.sidebar.write("Made by ❤️ Aqsa GUll ")
+st.sidebar.write("Made by Taha Siddiqui ")
 
 
 
